@@ -15,6 +15,7 @@ All four products in one download. ? https://github.com/mattsayleiom69/genesis-s
 - **ATS-Friendly CV Template Pack** (`cv-pack-v1`) ? three ATS-safe CV templates (classic, minimal, modern), editable `.docx`. ? https://github.com/mattsayleiom69/genesis-storefront/releases/tag/cv-pack-v1
 - **Developer & Office Cheat-Sheet Bundle** (`cheatsheets-v1`) ? regex, Excel & Google Sheets, and Git in one searchable PDF. ? https://github.com/mattsayleiom69/genesis-storefront/releases/tag/cheatsheets-v1
 - **Neon Breakout** (`neon-breakout-v1`) ? a single-file HTML5 breakout game. ? https://github.com/mattsayleiom69/genesis-storefront/releases/tag/neon-breakout-v1
+- **n8n Automation Starter Pack** (`n8n-starter-pack-v1`) ? three ready-to-import n8n workflow templates. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/n8n-starter-pack-v1
 
 ## How to pay / support
 Payment options are being switched on. Until then downloads are free ? if a product saves you time, please come back and pay what it was worth.
