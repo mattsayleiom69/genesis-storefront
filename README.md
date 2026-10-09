@@ -5,14 +5,16 @@
 Every product is a GitHub **Release** — open a release and download the files. Browsable storefront: https://mattsayleiom69.github.io/genesis-storefront/
 
 ## Free
-- **Freelancer Starter Checklist** (`freelancer-checklist-v1`) — A 25-point checklist to set up a freelance business properly. Free lead magnet. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/freelancer-checklist-v1
+- **Freelancer Starter Checklist** (`freelancer-checklist-v1`) — A 25-point checklist to set up a freelance business properly. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/freelancer-checklist-v1
 - **Neon Breakout** (`neon-breakout-v1`) — A single-file HTML5 breakout game. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/neon-breakout-v1
 
 ## Catalogue
-- **Freelancer Cashflow & Invoice Tracker** (`tracker-v1`) — Google Sheets / Excel: invoices, expenses, clients, overdue flags and a cashflow forecast. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/tracker-v1
-- **Invoice & Quote Starter Pack** (`invoice-quote-pack-v1`) — A print-ready invoice template, quote template and spreadsheet headers. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/invoice-quote-pack-v1
+- **Freelancer Cashflow & Invoice Tracker** (`tracker-v1`) — Google Sheets / Excel: invoices, expenses, clients, overdue flags, cashflow forecast. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/tracker-v1
+- **Invoice & Quote Starter Pack** (`invoice-quote-pack-v1`) — A print-ready invoice + quote template and spreadsheet headers. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/invoice-quote-pack-v1
+- **Invoice Chaser Pack** (`invoice-chaser-pack-v1`) — Payment-reminder email templates + an overdue tracker. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/invoice-chaser-pack-v1
 - **ATS-Friendly CV Template Pack** (`cv-pack-v1`) — Three clean, ATS-safe CV templates as editable .docx files. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/cv-pack-v1
-- **Developer & Office Cheat-Sheet Bundle** (`cheatsheets-v1`) — One searchable PDF: regex, Excel & Google Sheets functions, and Git. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/cheatsheets-v1
+- **Developer & Office Cheat-Sheet Bundle** (`cheatsheets-v1`) — One searchable PDF: regex, Excel & Google Sheets, and Git. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/cheatsheets-v1
+- **Client Onboarding Pack** (`client-onboarding-pack-v1`) — Onboarding checklist + welcome / kickoff / handover email templates. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/client-onboarding-pack-v1
 - **Social Media Caption Pack** (`social-caption-pack-v1`) — 48 copy-and-paste captions across 8 categories. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/social-caption-pack-v1
 - **n8n Automation Starter Pack** (`n8n-starter-pack-v1`) — Three ready-to-import n8n workflow templates. → https://github.com/mattsayleiom69/genesis-storefront/releases/tag/n8n-starter-pack-v1
 
